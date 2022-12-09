@@ -8,12 +8,12 @@ It is a type of hypothesis test where only one factor is considered
 
 ### We can use this only when: 
 
-the samples have a normal distribution.
-the samples are selected at random and should be independent of one another.
-all groups have equal standard deviations.
+* the samples have a normal distribution.
+* the samples are selected at random and should be independent of one another.
+* all groups have equal standard deviations.
 
 
 ### Null and Alternative hypothesis. 
 
-H0 -> μ1 = μ2 = μ3  (It implies that the means of all the population are equal).
-Ha -> At least one difference among the means.
+* H0 -> μ1 = μ2 = μ3  (It implies that the means of all the population are equal).
+* Ha -> At least one difference among the means.
