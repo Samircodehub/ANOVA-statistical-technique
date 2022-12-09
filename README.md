@@ -4,10 +4,11 @@ ANOVA is a parametric statistical technique that helps in finding out if there i
 
 ##  One ANOVA-statistical-technique
 
-It is a type of hypothesis test, used to check whether there is a statistically significant difference between the mean  of three or more groups that has been divided into one factors.
+It is a type of hypothesis test, used to check whether there is a statistically significant difference between the mean  of three or more groups that has been divided into one factors.(factor will be independent variable)
 
-##  One ANOVA-statistical-technique
-It is a type of hypothesis test, used to check whether there is a statistically significant difference between the mean  of three or more groups that has been divided into two factors.
+##  Two ANOVA-statistical-technique
+It is a type of hypothesis test, used to check whether there is a statistically significant difference between the mean  of three or more groups that has been divided into two factors. (factors will be independent variable)
+
 ### # We can use this only when: 
 
 * the samples have a normal distribution.
