@@ -1,6 +1,10 @@
-# ANOVA-statistical-technique
+#  ANOVA-statistical-technique
 
 ANOVA is a parametric statistical technique that helps in finding out if there is a significant difference between the mean of three or more groups.
+
+##  One ANOVA-statistical-technique
+
+It is a type of hypothesis test where only one factor is considered
 
 ### We can use this only when: 
 
