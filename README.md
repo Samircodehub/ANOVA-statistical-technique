@@ -15,5 +15,5 @@ all groups have equal standard deviations.
 
 ### Null and Alternative hypothesis. 
 
-H0 -> μ1 = μ2 = μ3 (where μ = mean).
+H0 -> μ1 = μ2 = μ3  (It implies that the means of all the population are equal).
 Ha -> At least one difference among the means.
